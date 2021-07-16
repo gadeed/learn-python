@@ -37,19 +37,22 @@ def days_tounits(day):
 # for element in set(user_input.split(",")):
 #     calculate_execute()
 
-my_list = ['January', 'Febraury', 'March','January']
+my_list1 = ['January', 'Febraury', 'March','January']
+my_list2 = {'January', 'Febraury', 'March', 'January','January'}
 
 
-# print(my_list)
+print(my_list1)
+print(my_list2)
+
 # print(set(my_list))
 
-my_set = {'Sabti','Axad','Isniin','Talaada'}
+# my_set = {'Sabti','Axad','Isniin','Talaada'}
 
-print(my_set)
+# print(my_set)
 
-my_set.add('Jimce')
+# my_set.add('Jimce')
 
-print(my_set)
+# print(my_set)
 
 
 
